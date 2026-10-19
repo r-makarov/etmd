@@ -11,7 +11,7 @@ PATH_TO_DATA = ROOT / 'data'
 MODELS = ['Hay_2011', 'Park_2019']
 DOMAIN_NAMES = {
     'Hay_2011': ['apic', 'basal'],
-    'Park_2019': ['apic', 'dend'],
+    'Park_2019': ['apic', 'basal'],
 }
 
 
